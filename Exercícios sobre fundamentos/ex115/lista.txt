@@ -1,0 +1,3 @@
+Nome:          idade:
+eduardo          23 
+michele          12 
